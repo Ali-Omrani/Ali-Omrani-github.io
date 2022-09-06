@@ -295,7 +295,7 @@ hr {
 }
 
 .top-section {
-  padding: 40px;
+  padding: 40px 40px 0px;
 }
 
 .profile-image {
@@ -327,10 +327,10 @@ h3.profile-title {
   display: block;
 }
 .main-navigation li a {
-  padding: 15px 40px;
+  padding: 10px 40px;
   display: block;
   color: white;
-  font-size: 14px;
+  font-size: 12px;
 }
 .main-navigation li a i {
   margin-right: 15px;
@@ -358,7 +358,7 @@ h3.profile-title {
   margin-right: 20px;
 }
 .social-icons a {
-  font-size: 18px;
+  font-size: 30px;
   color: white;
 }
 .social-icons a:hover {
